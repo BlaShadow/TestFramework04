@@ -10,8 +10,8 @@ Pod::Spec.new do |s|
 
   s.name               = "TestFramework04"
   s.version            = "0.0.2"
-  s.summary            = "A short description of TestFramework04. A short description of TestFramework04."
-  s.description        = "Short description! Short description! Short description! Short description!"
+  s.summary            = "A short description of this Framework for testing porpuse"
+  s.description        = "A short description of this Framework for testing porpuse, hoping to all goes well"
   s.homepage           = "https://github.com/BlaShadow/TestFramework04"
   s.license            = "MIT"
   s.author             = { "blashadow" => "blackzerogamer@gmail.com" }
