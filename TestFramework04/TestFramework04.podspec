@@ -18,6 +18,6 @@ Pod::Spec.new do |s|
   s.social_media_url   = "http://twitter.com/blashadow"
   s.platform           = :ios, "11.0"
   s.source             = { :git => "https://github.com/BlaShadow/TestFramework04.git", :tag => "#{s.version}" }
-  s.source_files       = "Clases/*.{h, m, swift}"
+  s.source_files       = "TestFramework04/TestFramework04/"
 
 end
