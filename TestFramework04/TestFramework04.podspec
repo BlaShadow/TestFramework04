@@ -8,16 +8,16 @@
 
 Pod::Spec.new do |s|
 
-  s.name         = "TestFramework04"
-  s.version      = "0.0.2"
-  s.summary      = "A short description of TestFramework04. A short description of TestFramework04."
-  s.description  = "Short description! Short description! Short description! Short description!"
-  s.homepage     = "https://github.com/BlaShadow/TestFramework04"
-  s.license      = "MIT"
+  s.name               = "TestFramework04"
+  s.version            = "0.0.2"
+  s.summary            = "A short description of TestFramework04. A short description of TestFramework04."
+  s.description        = "Short description! Short description! Short description! Short description!"
+  s.homepage           = "https://github.com/BlaShadow/TestFramework04"
+  s.license            = "MIT"
   s.author             = { "blashadow" => "blackzerogamer@gmail.com" }
   s.social_media_url   = "http://twitter.com/blashadow"
-  s.platform     = :ios, "11.0"
-  s.source       = { :git => "https://github.com/BlaShadow/TestFramework04.git", :tag => "#{s.version}" }
-  s.source_files  = "TestFramework04"
+  s.platform           = :ios, "11.0"
+  s.source             = { :git => "https://github.com/BlaShadow/TestFramework04.git", :tag => "#{s.version}" }
+  s.source_files       = "Clases/*.{h, m, swift}"
 
 end
